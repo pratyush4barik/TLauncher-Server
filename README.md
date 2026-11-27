@@ -188,7 +188,7 @@ online-mode=true
 ```properties
 online-mode=false
 ```
-
+- If want anyone can join then: 
 ```properties
 white-list=true
 ```
