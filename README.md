@@ -1,4 +1,4 @@
-# 🎮 TLauncher-Server
+#  TLauncher-Server
 
 A self-hosted Minecraft Java Edition multiplayer server built using PaperMC. Designed for college students and friends who want to play Minecraft together using TLauncher or other compatible Minecraft launchers over the same local Wi-Fi network.
 
@@ -6,7 +6,7 @@ A self-hosted Minecraft Java Edition multiplayer server built using PaperMC. Des
 
 ---
 
-## 📌 REQUIREMENTS
+##  REQUIREMENTS
 
 - Windows 10 / Windows 11
 - Java (version depends on your Minecraft server version)
@@ -17,7 +17,7 @@ A self-hosted Minecraft Java Edition multiplayer server built using PaperMC. Des
 
 ---
 
-# 🚀 SERVER SETUP GUIDE
+#  SERVER SETUP GUIDE
 
 ## STEP - 1: Install Java
 
@@ -462,7 +462,7 @@ Features that can be added to this server:
 
 ---
 
-# 👨‍💻 PROJECT INFORMATION
+#  PROJECT INFORMATION
 
 **Project Name:** TLauncher-Server
 
@@ -482,7 +482,7 @@ Features that can be added to this server:
 
 ---
 
-### ⭐ Support the Project
+###  Support the Project
 
 If this guide helped you create your own Minecraft server, consider giving this repository a ⭐ on GitHub!
 
