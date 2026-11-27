@@ -175,7 +175,7 @@ Instructions:
 ```text
 server.properties
 ```
-
+- If want anyone can join then: 
 - Open it using Notepad.
 - Find the following setting:
 
@@ -188,7 +188,7 @@ online-mode=true
 ```properties
 online-mode=false
 ```
-- If want anyone can join then: 
+- Also
 ```properties
 white-list=true
 ```
