@@ -22,6 +22,9 @@ A self-hosted Minecraft Java Edition multiplayer server built using PaperMC. Des
 ## STEP - 1: Install Java
 
 - Install the Java version required by your Minecraft server.
+- https://java-for-minecraft.com/en/
+- https://docs.aws.amazon.com/corretto/latest/corretto-25-ug/downloads-list.html
+- https://corretto.aws/downloads/latest/amazon-corretto-25-x64-windows-jdk.msi - Direct Download Link
 - Open CMD (Command Prompt).
 - Execute the following command:
 
