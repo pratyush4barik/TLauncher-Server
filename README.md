@@ -189,6 +189,16 @@ online-mode=true
 online-mode=false
 ```
 
+```properties
+white-list=true
+```
+
+- Change it to:
+
+```properties
+white-list=false
+```
+
 Also configure the following settings:
 
 ```properties
