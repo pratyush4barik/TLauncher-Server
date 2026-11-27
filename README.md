@@ -90,6 +90,7 @@ start.bat
 **COMMON ERROR:** Make sure the filename doesn't become `start.bat.txt`.
 
 - Open the file using Notepad.
+- Enable file extension from folders view option.
 - Paste the following code:
 
 ```bat
@@ -102,6 +103,7 @@ pause
 ```
 
 - Save the file.
+- Remove --nogui if u need the ram usage interface.
 - Double-click `start.bat` to launch the server.
 
 **What does this code do?**
